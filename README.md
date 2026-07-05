@@ -6,7 +6,7 @@ A lightweight Python desktop application built with CustomTkinter. It starts wit
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <p align="center">
   <img src="screenshots/home.png" width="45%">
