@@ -6,6 +6,21 @@ A lightweight Python desktop application built with CustomTkinter. It starts wit
 
 ---
 
+## 📸 Screenshots
+
+### Main window
+
+![Main window](screenshots/home.png)
+
+### Playlist
+
+![Playlist](screenshots/PLAYLIST.png)
+
+### System tray
+
+![Tray](screenshots/tray.png)
+
+
 ## Features
 
 -  Resume playlists with one click
