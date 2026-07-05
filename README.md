@@ -8,13 +8,10 @@ A lightweight Python desktop application built with CustomTkinter. It starts wit
 
 ## 📸 Screenshots
 
-### Main window
-
-![Main window](screenshots/home.png)
-
-### Playlist
-
-![Playlist](screenshots/PLAYLIST.png)
+<p align="center">
+  <img src="screenshots/home.png" width="45%">
+  <img src="screenshots/playlist.png" width="45%">
+</p>
 
 ### System tray
 
