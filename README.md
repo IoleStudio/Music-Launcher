@@ -1,6 +1,11 @@
 # Music-Launcher
 A lightweight Python desktop application built with CustomTkinter. It starts with Windows, runs in the system tray, and lets you resume your favorite playlists or songs in one click — no internet connection required.
 
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Windows](https://img.shields.io/badge/Windows-10%2B-success)
+
+---
+
 ## Features
 
 -  Resume playlists with one click
