@@ -69,6 +69,6 @@ This project is licensed under the MIT License.
 
 ---
 
-Developed with ❤️ by **Iole Studio**
+Developed by **Iole Studio**
 
 Building desktop applications, websites and custom software.
